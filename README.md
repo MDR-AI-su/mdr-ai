@@ -393,3 +393,421 @@ AI video generation, text-to-video, Telegram AI bot, generative video, AI conten
 # MDR-AI
 
 Create AI videos directly inside Telegram.
+
+
+
+
+
+# MDR-AI
+
+Telegram-first платформа для генерации AI-видео.
+
+MDR-AI позволяет создавать AI-видео прямо внутри Telegram с помощью текстовых промптов, multi-scene workflow, автоматической сборки роликов и современных generative video models.
+
+Платформа создана для:
+- контент-креаторов
+- маркетологов
+- бизнеса
+- агентств
+- meme creators
+- social media команд
+- всех, кто хочет создавать short-form AI video content без сложного видеомонтажа
+
+---
+
+# Обзор
+
+MDR-AI превращает текстовые запросы в полноценные AI-сгенерированные видео.
+
+Пользователь взаимодействует с Telegram-ботом:
+- описывает идею обычным текстом
+- выбирает AI-модель
+- генерирует сцены
+- перегенерирует отдельные кадры
+- получает готовый ролик прямо в Telegram
+
+Платформа избавляет от необходимости использовать:
+- сложные видеоредакторы
+- перегруженные AI-интерфейсы
+- локальные GPU
+- глубокие знания prompt engineering
+- цепочки из нескольких сервисов
+
+MDR-AI объединяет:
+- AI video generation
+- orchestration
+- automatic assembly
+- publishing workflows
+
+в единый Telegram-native experience.
+
+---
+
+# Основные возможности
+
+## Генерация видео из текста
+
+Создавайте видео из обычных текстовых запросов.
+
+Пример:
+> "Cyberpunk Tokyo street at night, cinematic camera movement, neon lights, rain, ultra realistic"
+
+Система отправляет запрос в выбранную AI video model и возвращает готовые сцены прямо в Telegram.
+
+---
+
+## Multi-Scene Workflow
+
+Вместо генерации одного клипа MDR-AI поддерживает multi-scene storytelling.
+
+Пользователь может:
+- создавать несколько сцен
+- просматривать каждую отдельно
+- перегенерировать конкретные сцены
+- менять порядок сцен
+- собирать их в единый ролик
+
+Такой workflow идеально подходит для:
+- TikTok
+- Reels
+- Shorts
+- рекламы
+- cinematic sequences
+- meme content
+- product videos
+
+---
+
+## Автоматическая сборка роликов
+
+MDR-AI автоматически объединяет выбранные сцены в итоговое видео.
+
+Дополнительно система может генерировать:
+- transitions
+- обложки
+- заголовки
+- описания
+- metadata для публикации
+
+Это снижает количество ручного монтажа и ускоряет производство short-form контента.
+
+---
+
+## Telegram-native интерфейс
+
+Отдельный dashboard не нужен.
+
+Всё взаимодействие происходит через Telegram.
+
+Преимущества:
+- быстрый onboarding
+- mobile-first workflow
+- работа на любых устройствах
+- мгновенная доставка результата
+- отсутствие установки приложений
+- минимальный порог входа
+
+Telegram выступает как:
+- control panel
+- rendering queue
+- media delivery system
+- notification system
+
+---
+
+## Поддержка нескольких AI-моделей
+
+MDR-AI поддерживает несколько generative video models под разные задачи.
+
+В зависимости от выбранной модели пользователь может сделать упор на:
+- realism
+- animation
+- cinematic motion
+- speed
+- stylization
+- short-form content
+- visual consistency
+
+Архитектура платформы позволяет подключать современные и будущие AI video providers.
+
+---
+
+# Как это работает
+
+## Шаг 1 — Отправка промпта
+
+Пользователь описывает идею видео обычным языком.
+
+Примеры:
+- "Luxury perfume commercial in slow motion"
+- "Cute cat cooking pasta anime style"
+- "Sci-fi spaceship landing on Mars"
+- "Minimalist coffee ad for TikTok"
+
+Промпт может содержать:
+- стиль
+- настроение
+- camera movement
+- lighting
+- pacing
+- environment
+- aspect ratio
+- количество сцен
+
+---
+
+## Шаг 2 — Генерация сцен
+
+MDR-AI создаёт сцены через выбранную AI generation model.
+
+Каждую сцену можно:
+- принять
+- перегенерировать
+- изменить
+- заменить
+
+Такой iterative workflow даёт больше контроля над финальным результатом.
+
+---
+
+## Шаг 3 — Сборка ролика
+
+Подтверждённые сцены автоматически объединяются в итоговую композицию.
+
+Дополнительно система может создать:
+- title
+- cover image
+- social caption
+- описание для публикации
+
+Готовый ролик отправляется прямо в Telegram.
+
+---
+
+# Пример workflow
+
+## Промпт
+
+> "Generate a 3-scene cinematic coffee advertisement with warm morning lighting and cozy atmosphere"
+
+## Процесс генерации
+
+1. Scene 1 — макросъёмка кофейных зёрен
+2. Scene 2 — slow motion наливания эспрессо
+3. Scene 3 — уютное кафе с утренним солнцем
+
+## Финальный результат
+
+- assembled vertical video
+- AI-generated cover image
+- title и caption
+- готовый к публикации контент
+
+---
+
+# Сценарии использования
+
+## Для контент-креаторов
+
+Создание:
+- TikTok
+- YouTube Shorts
+- Instagram Reels
+- AI edits
+- storytelling контента
+
+---
+
+## Для бизнеса
+
+Генерация:
+- рекламы
+- product showcase
+- promo videos
+- brand campaigns
+- social creatives
+
+---
+
+## Для агентств
+
+Масштабирование AI video production workflows для:
+- клиентов
+- рекламных кампаний
+- rapid prototyping
+- concept visualization
+
+---
+
+## Для meme creators
+
+Создание вирусного, surreal и comedic AI video content прямо внутри Telegram.
+
+---
+
+## Для образования
+
+Визуализация:
+- концепций
+- симуляций
+- объяснений
+- educational storytelling
+
+---
+
+# Почему Telegram?
+
+Telegram предоставляет:
+- мгновенную доставку медиа
+- быстрые interaction loops
+- cross-platform accessibility
+- lightweight UX
+- mobile-native workflows
+
+MDR-AI использует Telegram как lightweight AI operating system для генерации медиа.
+
+---
+
+# Техническая архитектура
+
+MDR-AI построен вокруг:
+- AI video generation pipelines
+- asynchronous rendering workflows
+- scene orchestration systems
+- Telegram bot infrastructure
+- automated media assembly
+- cloud-based generation systems
+
+Платформа проектируется с учётом масштабирования и интеграции будущих generative AI systems.
+
+---
+
+# Поддерживаемые типы контента
+
+С помощью MDR-AI можно создавать:
+- cinematic videos
+- advertisements
+- AI animation
+- meme videos
+- social content
+- motion graphics
+- aesthetic edits
+- storytelling sequences
+- product videos
+- concept visuals
+
+---
+
+# Философия платформы
+
+MDR-AI строится вокруг трёх принципов.
+
+## Accessibility
+
+AI video generation должен быть доступен без:
+- навыков монтажа
+- GPU hardware
+- сложных интерфейсов
+
+---
+
+## Speed
+
+Workflow оптимизирован под rapid iteration и быстрый production контента.
+
+---
+
+## Simplicity
+
+Telegram становится интерфейсным слоем для сложных generative AI systems.
+
+---
+
+# Future Roadmap
+
+Планируемые функции:
+- image-to-video workflows
+- character consistency
+- voice generation
+- AI narration
+- soundtrack generation
+- collaborative projects
+- API access
+- timeline editing
+- advanced prompt controls
+- batch rendering
+- publishing integrations
+
+---
+
+# API и интеграции
+
+В будущем API позволит:
+- строить automated video pipelines
+- подключать third-party integrations
+- создавать SaaS integrations
+- автоматизировать маркетинг
+- разрабатывать creator tooling
+- строить workflow automation
+
+---
+
+# Конфиденциальность
+
+Промпты и сгенерированный контент могут обрабатываться сторонними AI generation providers в зависимости от выбранной модели.
+
+Пользователям не рекомендуется отправлять:
+- чувствительные персональные данные
+- конфиденциальную информацию
+- приватные медиафайлы
+
+---
+
+# Доступность
+
+MDR-AI находится в стадии beta access.
+
+Платформа использует balance-based model без обязательных ежемесячных подписок.
+
+---
+
+# Модель оплаты
+
+Пользователь может:
+- начать с бесплатных кредитов
+- пополнять баланс по необходимости
+- платить только за генерации
+
+Такой подход обеспечивает гибкость использования без recurring subscriptions.
+
+---
+
+# Website
+
+https://mdr-ai.su
+
+---
+
+# Telegram Bot
+
+https://t.me/AImdr_bot
+
+---
+
+# Контакты
+
+Для сотрудничества, интеграций и business inquiries:
+- Website: https://mdr-ai.su
+- Telegram: https://t.me/AImdr_bot
+
+---
+
+# Keywords
+
+AI video generation, text-to-video, Telegram AI bot, generative video, AI content creation, AI video platform, Telegram-first AI tools, AI filmmaking, automatic video assembly, short-form AI video generation.
+
+---
+
+# MDR-AI
+
+Создавайте AI-видео прямо внутри Telegram.
